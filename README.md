@@ -2,7 +2,7 @@
 <br>
 This is the official implementation of "A Double Attention-aided U-Net Architecture for Skin Lesion and Histopathological Image Segmentation".
 
-Overall Workflow:
+<h2>Overall Workflow:</h2>
 ![Proposed_method2 drawio (1)](https://github.com/user-attachments/assets/b8aff297-b27f-4efb-a6f0-7c8253d1f64a)
 Fused Attention (FA) module:
 ![attention_new2 drawio (1)](https://github.com/user-attachments/assets/087ca4b7-2217-4c5b-8b62-8854a9d8c648)
