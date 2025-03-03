@@ -17,4 +17,3 @@ Some test images and their corresponding heat map of MoNuSeg after applying FA i
 <br>
 Some test images and their corresponding heat map of CPM-17 after applying FA in the proposed model:
 ![CPM_17_heatmap drawio (1)](https://github.com/user-attachments/assets/2cbf939e-3d36-4db1-910c-4e8c0f444625)
-
