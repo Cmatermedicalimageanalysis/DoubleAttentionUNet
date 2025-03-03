@@ -1,4 +1,5 @@
-![ISIC_2016_heatmap drawio (1)](https://github.com/user-attachments/assets/0956b51e-8da8-4503-9fd3-e575fbacc273)A Double Attention-aided U-Net Architecture for Skin Lesion and Histopathological Image Segmentation.
+A Double Attention-aided U-Net Architecture for Skin Lesion and Histopathological Image Segmentation.
+<br>
 This is the official implementation of "A Double Attention-aided U-Net Architecture for Skin Lesion and Histopathological Image Segmentation".
 
 Overall Workflow:
