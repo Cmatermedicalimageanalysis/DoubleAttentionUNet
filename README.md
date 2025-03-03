@@ -1,4 +1,4 @@
-A Double Attention-aided U-Net Architecture for Skin Lesion and Histopathological Image Segmentation.
+<h1>A Double Attention-aided U-Net Architecture for Skin Lesion and Histopathological Image Segmentation</h1>
 <br>
 This is the official implementation of "A Double Attention-aided U-Net Architecture for Skin Lesion and Histopathological Image Segmentation".
 
